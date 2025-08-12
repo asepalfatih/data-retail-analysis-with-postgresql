@@ -24,3 +24,6 @@ Mengubah data menjadi insight strategis untuk mendorong kinerja bisnis
 - Memberikan gambaran pelanggan terbaik untuk strategi retensi.
 - Mengidentifikasi bulan terbaik untuk kampanye promosi.
 - Menentukan produk unggulan untuk fokus penjualan.
+
+
+<img width="1364" height="740" alt="postgresql" src="https://github.com/user-attachments/assets/0f346487-a98b-4bc8-9852-196364464d5b" />
